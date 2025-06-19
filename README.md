@@ -14,6 +14,9 @@ This project is a lightweight AI agent designed to convert human-friendly produc
 - Easily customizable logic for filters like price, category, or keywords
 - CLI-style prototype with modular architecture
 
+  ## 📷 Screenshot
+![Chatbot Screenshot](./screenshot.jpeg) <!-- Add this if you upload a screenshot -->
+
 ## 🛠 Tech Stack
 - `Node.js`, `JavaScript`
 - `Claude AI API` (via HTTP)
